@@ -17,3 +17,7 @@ Energy costs are a major operational expense. This project analyzes energy consu
 - Clear visibility into energy usage and cost patterns
 - Identification of inefficiencies and anomalies
 - Actionable insights to support operational decision-making
+
+## Data Model
+This project uses a star schema with a central fact table capturing energy usage and cost,
+linked to date and site dimension tables to enable flexible time-based and location-based analysis.
