@@ -1,0 +1,31 @@
+﻿site_id;site_name;region;site_type
+S01;Head Office;Gauteng;Office
+S02;CoT Office;Gauteng;Office
+S03;Plant A;Kwa-Zulu Natal;Plant
+S04;Polokwane Mall;Limpopo;Shopping Centre
+S05;GTZ Municipal Office;Limpopo;Offices
+S06;Rustenburg Mall;North West;Shopping Centre
+S07;Mall of Africa;Gauteng;Shopping Centre
+S08;Groblersdal Comms Tower;Limpopo;CommunicationTower
+S09;Meyerton Comms Tower;Gauteng;CommunicationTower
+S10;Plant B;Mpumalanga;Plant
+S11;Plant C;Mpumalanga;Plant
+S12;Plant D;Kwa-Zulu Natal;Plant
+S13;Waterfront;Western Cape;Shopping Centre
+S14;DPWI office;Gauteng;Office
+S15;Kgosi Mampuru;Gauteng;Prison
+S16;Leewukop;Gauteng;Prison
+S17;St Albans;Eastern Cape;Prison
+S18;Boksburg Prison;Gauteng;Prison
+S19;Mogwase Complex;North West;Shopping Centre
+S20;Moruleng Mall;North West;Shopping Centre
+S21;Rampalane HS;Limpopo;School
+S22;Athlone Girls' HS;Gauteng;School
+S23;Hilton HS;Kwa-Zulu Natal;School
+S24;PE Comms Tower;Eastern Cape;CommunicationTower
+S25;Jeppe Boys' HS;Gauteng;School
+S26;Plant E;Free State;Plant
+S27;Plant F;Free State;Plant
+S28;Plant G;Mpumalanga;Plant
+S29;Sandton City;Gauteng;Shopping Centre
+S30;Bel-Air Mall;Gauteng;Shopping Centre
