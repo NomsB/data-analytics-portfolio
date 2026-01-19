@@ -21,3 +21,11 @@ Energy costs are a major operational expense. This project analyzes energy consu
 ## Data Model
 This project uses a star schema with a central fact table capturing energy usage and cost,
 linked to date and site dimension tables to enable flexible time-based and location-based analysis.
+
+## Key Insights
+- Identified high-cost sites and peak usage periods driving overall energy spend
+- Highlighted consumption trends to support efficiency planning
+- Designed an interactive Power BI dashboard for management reporting
+
+## Business Value
+This analysis demonstrates how structured data modeling and visualization can support cost optimization and operational decision-making.
