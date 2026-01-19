@@ -23,6 +23,7 @@ This project uses a star schema with a central fact table capturing energy usage
 linked to date and site dimension tables to enable flexible time-based and location-based analysis.
 
 ## Key Insights
+- Energy costs increase disproportionately during peak periods, resulting in a higher cost per kWh. This indicates potential opportunities for load shifting or tariff optimization.
 - Identified high-cost sites and peak usage periods driving overall energy spend
 - Highlighted consumption trends to support efficiency planning
 - Designed an interactive Power BI dashboard for management reporting
