@@ -27,6 +27,11 @@ linked to date and site dimension tables to enable flexible time-based and locat
 - Identified high-cost sites and peak usage periods driving overall energy spend
 - Highlighted consumption trends to support efficiency planning
 - Designed an interactive Power BI dashboard for management reporting
+- Because the dataset is small and evenly distributed the costs seem to cluster tightly around the mean, producing no clear outliers despite adjusting the lens using the following formulae:
+  1. Daily Cost > Average Daily Cost: initial and final committed.
+  2. Daily Cost Rank <= High Cost Threshold: a bad day meant a day in the top 20% highest of daily costs.
+  3. Daily Cost >= High Cost Cutoff: calculated bad days using a percentile and compared each day to a hard cutoff value.
 
 ## Business Value
-This analysis demonstrates how structured data modeling and visualization can support cost optimization and operational decision-making.
+- This analysis demonstrates how structured data modeling and visualization can support cost optimization and operational decision-making.
+- The analysis shows that a small number of high-cost days contribute disproportionately to total energy spend. These days often coincide with peak usage periods, indicating that targeted operational changes during these periods could significantly reduce overall costs.
