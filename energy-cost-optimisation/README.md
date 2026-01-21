@@ -1,5 +1,8 @@
 # Energy Consumption & Cost Optimization Analysis
 
+## Project Overview
+This project analyzes energy consumption and cost data across multiple sites to identify cost drivers, peak usage patterns, and opportunities for efficiency improvements. Using a star schema data model, SQL-based analysis, and Power BI dashboards, the analysis highlights high-cost sites and time periods and provides actionable recommendations to support cost optimization.
+
 ## Executive Summary
 Analysis of energy consumption and cost data shows that costs increase disproportionately during peak periods, resulting in a higher cost per kWh. While no extreme outliers were observed due to the relatively small and evenly distributed dataset, consistent cost clustering around the mean indicates stable consumption patterns. This stability enables proactive planning, with peak-period management and tariff optimization presenting the most impactful opportunities for cost reduction.
 
