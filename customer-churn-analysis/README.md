@@ -9,3 +9,23 @@ Customer churn occurs when customers stop using a company’s service. Retaining
 - Segment customers based on behavior
 - Build a basic machine learning model to predict churn risk
 - Provide business recommendations to improve retention
+
+## Tools Used
+- 
+
+## Expected Outcomes
+- 
+
+## Data Model
+
+
+## Key Insights
+- 
+
+## Business Value
+- 
+
+## Recommendations
+- 
+
+## Enhancement
