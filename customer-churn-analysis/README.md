@@ -18,6 +18,10 @@ Customer churn occurs when customers stop using a company’s service. Retaining
 
 ## Data Model
 
+## Key Exploratory Data Analysis Findings
+- Customers on month-to-month contracts show higher churn
+- Customers with shorter tenure are more likely to churn
+- Higher monthly charges appear associated with increased churn risk
 
 ## Key Insights
 - 
