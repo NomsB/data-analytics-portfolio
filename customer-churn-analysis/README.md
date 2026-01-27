@@ -11,6 +11,7 @@ Customer churn occurs when customers stop using a company’s service. Retaining
 - Provide business recommendations to improve retention
 
 ## Tools Used
+- Google Colab
 - 
 
 ## Expected Outcomes
