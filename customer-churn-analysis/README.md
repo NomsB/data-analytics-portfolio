@@ -1,5 +1,8 @@
 # Customer Churn Analysis
 
+## Executive Summary
+Using historical customer data, a churn prediction model was developed to identify customers at risk of leaving. The model highlights contract type, tenure, and monthly charges as key churn drivers. By proactively targeting high-risk customers with retention strategies, the business can reduce churn and improve long-term revenue stability.
+
 ## Business Problem
 Customer churn occurs when customers stop using a company’s service. Retaining existing customers is often more cost-effective than acquiring new ones. This project analyzes customer data to identify patterns associated with churn and builds a model to help predict which customers are at risk of leaving.
 
