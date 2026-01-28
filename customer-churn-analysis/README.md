@@ -6,19 +6,21 @@ Using historical customer data, a churn prediction model was developed to identi
 ## Business Problem
 Customer churn occurs when customers stop using a company’s service. Retaining existing customers is often more cost-effective than acquiring new ones. This project analyzes customer data to identify patterns associated with churn and builds a model to help predict which customers are at risk of leaving.
 
+## Dataset
+Telco customer dataset with demographics, services, and billing info.
+
 ## Objectives
-- Explore customer behavior and characteristics
-- Identify factors associated with churn
-- Segment customers based on behavior
-- Build a basic machine learning model to predict churn risk
+- Data cleaning and preprocessing
+- Exploratory analysis to identify churn patterns
+- Logistic regression model to predict churn risk
+- Customer risk profiling
 - Provide business recommendations to improve retention
 
 ## Tools Used
-- Google Colab
-- 
-
-## Expected Outcomes
-- 
+- Python
+- Pandas
+- Seaborn
+- Scikit-learn
 
 ## Model Insights
 The logistic regression model achieved an accuracy of approximately 82.40% [see accuracy_score.png]. Key factors associated with churn include contract type, tenure, and monthly charges. Customers with shorter tenure and month-to-month contracts show higher churn probability.
