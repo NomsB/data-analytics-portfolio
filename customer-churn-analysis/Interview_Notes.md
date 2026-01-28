@@ -5,3 +5,5 @@ During exploratory analysis, I kept churn as a categorical variable for interpre
 
 What were the model insights?
 My analysis identified contract type, internet service, and payment method as key churn indicators. I recommended targeted retention strategies for high-risk customers, which could reduce churn and improve customer lifetime value.
+
+I worked on a customer churn prediction project where I analyzed telecom customer data, identified churn drivers, and built a logistic regression model. I then used predicted probabilities to segment high-risk customers and proposed retention strategies. The project demonstrated how data science can directly support revenue protection
