@@ -23,7 +23,7 @@ Telco customer dataset with demographics, services, and billing info.
 - Scikit-learn
 
 ## Model Insights
-The logistic regression model achieved an accuracy of approximately 82.40% [see accuracy_score.png]. Key factors associated with churn include contract type, tenure, and monthly charges. Customers with shorter tenure and month-to-month contracts show higher churn probability.
+The logistic regression model achieved an accuracy of approximately 82.40% [see accuracy_score.png under python/visuals]. Key factors associated with churn include contract type, tenure, and monthly charges. Customers with shorter tenure and month-to-month contracts show higher churn probability.
 
 ## Key Exploratory Data Analysis Findings
 - Customers on month-to-month contracts show higher churn
