@@ -11,3 +11,9 @@ This dashboard focuses on metrics commonly used by leadership:
 - Customer Acquisition Trend
 - Top Performing Products or Regions
 - Underperforming Segments
+
+## KPI Highlights
+- Overall profit margin is 30%
+- Revenue shows downward trends over time
+- Customer count is decreasing over time
+- Electronical products drive the most revenue, and Beauty products has low profitability.
